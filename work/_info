@@ -1,0 +1,86 @@
+m255
+K3
+13
+cModel Technology
+dD:\EtherGate\lab1
+vchange_mode
+!s100 YlJ@TGD4?i]eige<AzYcW1
+IHOHm@]2mc_LoeKhHB<eF60
+Vf`haILMZ3aCijd8Cfz<eX1
+Z0 dD:\EtherGate\Proiect
+Z1 w1685468913
+Z2 8D:/EtherGate/Proiect/Change_mod.v
+Z3 FD:/EtherGate/Proiect/Change_mod.v
+L0 3
+Z4 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+vdebounce
+IQonVHY::9OnfH>oSmN4<b2
+VXbKY`UQN7gZ?afWM3_lTk1
+Z7 dD:\EtherGate\Proiect
+Z8 w1685465975
+Z9 8D:/EtherGate/Proiect/Devbouncer.v
+Z10 FD:/EtherGate/Proiect/Devbouncer.v
+L0 5
+R4
+r1
+31
+R5
+R6
+!s100 D`1CiY?V53[Qa<Bf3Il1G3
+!s85 0
+!s101 -O0
+vDebouncer
+IG[1iAPQJ[V[d62EcU4cOD3
+V0fEUXnPX=5aQkgmn8hzD<1
+R7
+w1685458141
+8D:/EtherGate/Proiect/debouncer.v
+FD:/EtherGate/Proiect/debouncer.v
+L0 3
+R4
+r1
+31
+R5
+R6
+n@debouncer
+!s100 @a1c`8mcffKOjT8[15K^T2
+!s85 0
+!s101 -O0
+vtb_change_mode
+!s100 O2<NXk7<EdiWVR4AXPL>O0
+I:^R[82iIedYnnmOaeM_7D2
+VL:NAH^SeD]n`8hWd7f<j?3
+R7
+R1
+R2
+R3
+L0 36
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6
+vtb_top
+IajMh2MFBIWRX3Re=>R`=M1
+V[LcaLh[SJXomY3Ki^RaI?1
+R7
+R8
+R9
+R10
+L0 31
+R4
+r1
+31
+R5
+R6
+!s100 [W^fCc4[zmEX:CgQ5VCHe1
+!s85 0
+!s101 -O0

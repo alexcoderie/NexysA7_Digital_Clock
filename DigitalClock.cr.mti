@@ -1,0 +1,9 @@
+D:/EtherGate/Proiect/Change_mod.v {1 {vlog -work work -nocovercells D:/EtherGate/Proiect/Change_mod.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module change_mode
+-- Compiling module tb_change_mode
+
+Top level modules:
+	tb_change_mode
+
+} {} {}}
